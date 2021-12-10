@@ -1,0 +1,46 @@
+.card.mb-3 {
+  width: 90%;
+  margin: auto;
+  margin-top: 20px;
+}
+.spanStyleRight {
+  text-align: right;
+  font-weight: bold;
+}
+.spanStyleLeft {
+  text-align: left;
+  font-weight: bold;
+}
+.wrp {
+  text-align: unset;
+}
+.card-title.page {
+  font-size: 2rem;
+  font-weight: bold;
+  font-style: italic;
+  padding-bottom: 100px;
+}
+.card-text.page {
+  font-size: 1.25rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.text-muted {
+  font-size: 1rem;
+  font-weight: normal;
+}
+.row {
+  margin-bottom: 10px;
+}
+.btn {
+  width: 100%;
+}
+
+.spinner-border {
+  font-size: 2rem;
+  margin: auto;
+  width: 50%;
+  padding: 400px;
+  text-align: center;
+  margin-top: 50px;
+}
